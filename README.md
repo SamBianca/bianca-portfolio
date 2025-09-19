@@ -54,11 +54,11 @@ Here you can add screenshots of your portfolio (optional).
 📬 Contact
 Name: Samantha Bianca G. Germina
 
-Facebook: Click Here
+Facebook: https://www.facebook.com/samanthabianca.germina.9
 
-Instagram: Click Here
+Instagram: https://www.instagram.com/s_biancsx?igsh=Y2k5ZWUxeDcxYWNq
 
-TikTok: Click Here
+TikTok: https://www.tiktok.com/@samb_0410?_t=ZS-8zrFs26x2e7&_r=1
 
 Email: samanthabiancagermina.10slm@g.mail.com
 

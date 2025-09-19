@@ -64,16 +64,3 @@ Email: samanthabiancagermina.10slm@g.mail.com
 
 © 2025 Sam 🌸 – All Rights Reserved.
 
-pgsql
-Copy code
-
-👉 You just need to create a `README.md` file with this content and put it inside your GitHub repository along with your `index.html` file.  
-
-Do you want me to also **separate your CSS and JS into their own files (`style.css`, `script.js`)** so your repo looks more professional?
-
-
-
-
-
-
-
